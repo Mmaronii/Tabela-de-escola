@@ -1,0 +1,46 @@
+
+
+.tabela{
+    border-collapse: collapse;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.cores{
+    padding: 15px;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.titulo{
+    text-align: center;
+    /*border: 1px solid black;*/
+    font-size: 2em
+}
+
+td{
+    border: 2px solid black;
+    width: 150px;
+    padding: 8px;
+}
+
+.importante{
+    background-color: blueviolet;
+}
+.dias{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.c1{
+    background-color: greenyellow;
+}
+
+.c2{
+    background-color: skyblue;
+}
+.c3{
+    background-color: pink;
+}
